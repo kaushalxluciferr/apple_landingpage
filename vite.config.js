@@ -11,6 +11,6 @@ export default defineConfig({
   theme: {
     extend: {},
   },
-  base:"/apple/",
+  base:"/apple_landingpage/",
   plugins: [react()],
 })
